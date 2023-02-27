@@ -10,6 +10,17 @@ h3 {
     text-align: center;
 }
 
+ul {
+    text-align: center;
+    list-style-position: inside; 
+} 
+
+.container {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+}
+
 .column {
     width: 33%;
 }

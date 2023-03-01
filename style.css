@@ -42,3 +42,9 @@ ul {
 .versicolor {
     fill: darkgreen;
 }
+
+.selected {
+    opacity: 100%;
+    stroke: orange;
+    stroke-width: 3px;
+}
